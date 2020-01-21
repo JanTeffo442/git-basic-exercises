@@ -1,0 +1,1000 @@
+  330  cat recruit.md
+  331  cat > cohort.md
+  332  cat cohort.md
+  333  clear
+  334  ls
+  335  clear
+  336  touch umuzi.md recruit.md cohort.md
+  337  ls
+  338  cat > umuzi.md
+  339  cat umuzi.md
+  340  cat > recruit.md
+  341  cat recruit.md
+  342  cat > cohort.md
+  343  cat cohort.md
+  344  cat umuzi.md recruit.md cohort.md
+  345  cat umuzi.md recruit.md cohort.md > summary.md
+  346  cat summary.md
+  347  cd Desktop
+  348  touch umuzi.md recruit.md cohort.md
+  349  ls
+  350  cat > umuzi.md
+  351  cat > recruit.md
+  352  cat > cohort.md
+  353  cat umuzi.md recruit.md cohort.md
+  354  cat umuzi.md recruit.md cohort.md > summary.md
+  355  cat summary.md
+  356  cat umuzi.md recruit.md cohort.md -> summary.md
+  357  cat summary.md
+  358  cat -> summary.md
+  359  cat summary
+  360  cat summary.md
+  361  touch umuzi.md recruit.md cohort.md
+  362  ls
+  363  cat > umuzi.md
+  364  cat > recruit.md
+  365  cat > cohort.md
+  366  cat umuzi.md recruit.md cohort.md
+  367  cat umuzi.md recruit.md cohort.md > summary.md
+  368  cat summary.mdexit
+  369  cat summary.md
+  370  cat umuzi.md recruit.md cohort.md -> summary.md
+  371  cat summary.md
+  372  shutdown
+  373  -a
+  374  shutdown -a
+  375  man locate
+  376  locate umuzi
+  377  locate -i umuzi
+  378  loacte umuzi.md
+  379  locate umuzi
+  380  locate umuzi > search.md
+  381  cat search.md
+  382  locate umuzi.md
+  383  locate umuzi.md > search.md
+  384  ls
+  385  cat umuzi.md
+  386  cat search.md
+  387  locate umuzi
+  388  rm umuzi.md recruit.md cohort.md
+  389  ls
+  390  clear
+  391  locate umuzi > search_result.md
+  392  ls
+  393  cat search_result.md
+  394  touch umuzi.md recruit.md cohort.md
+  395  ls
+  396  cat > umuzi.md
+  397  cat > recruit.md
+  398  cat > cohort.md
+  399  cat umuzi.md recruit.md cohort.md > summary.md
+  400  ls
+  401  cat summary.md
+  402  cat umuzi.md recruit.md cohort.md -> summary.md
+  403  cat summary.md
+  404  ls
+  405  cd Documents
+  406  cd ..
+  407  ls
+  408  cd ~/Documents
+  409  touch pad.md
+  410  ls
+  411  cd ..
+  412  cd ~/Desktop
+  413  mkdir work
+  414  ls
+  415  cp /home/recruit/Documents/pad.md pad_copy
+  416  ls
+  417  locate updatedb
+  418  cd ..
+  419  locate pad_copy.md
+  420  ls
+  421  cd Documents
+  422  ls
+  423  rm pad.md
+  424  ls
+  425  cd ..
+  426  cd Desktop
+  427  ls
+  428  rm pad.copy
+  429  rm pad_copy
+  430  ls
+  431  cd ~/Documents
+  432  touch pad.md
+  433  ls
+  434  cd ..
+  435  cd ~/Desktop
+  436  mkdir work
+  437  ls
+  438  cd ~/work
+  439  ls
+  440  cd ~/Documents
+  441  touch pad.md
+  442  ls
+  443  cd ..
+  444  cd ~/Desktop
+  445  mkdir work
+  446  ls
+  447  cp /home/recruit/Documents/pad.md pad_copy.md
+  448  ls
+  449  cd ~/Documents
+  450  touch pad.md
+  451  ls
+  452  cd ..
+  453  cd ~/Desktop
+  454  mkdir work
+  455  ls
+  456  cd work
+  457  cp /home/recruit/Documents/pad.md pad_copy.md
+  458  ls
+  459  locate updatedb
+  460  locate pad_copy.md
+  461  cd ..
+  462  locate updatedb
+  463  locate pad_copy.md
+  464  ls
+  465  cd ~/Documents
+  466  touch pad.md
+  467  ls
+  468  cd ..
+  469  cd ~/Desktop
+  470  mkdir work
+  471  ls
+  472  ls
+  473  cd ~/Documents
+  474  touch pad.md
+  475  ls
+  476  cd ..
+  477  cd ~/Desktop
+  478  mkdir work
+  479  ls
+  480  cd ~/work
+  481  cd work
+  482  cp /home/recruit/Documents/pad.md pad_copy.md
+  483  ls
+  484  sudo updatedb
+  485  sudo locate updatedb
+  486  cd ..
+  487  locate pad_copy.md
+  488  ls
+  489  cd ~/Documents
+  490  touch pad.md
+  491  ls
+  492  cd ..
+  493  cd ~/Desktop
+  494  mkdir work
+  495  cd work
+  496  cp /home/recruit/Documents/pad.md pad_copy.md
+  497  ls
+  498  sudo updatedb
+  499  cd ..
+  500  locate pad_copy.md
+  501  locate pad.md
+  502  locate pad_copy.md
+  503  find *.pdf
+  504  find "*.pdf"
+  505  locate *.pdf
+  506  locate "*.pdf"
+  507  locate "*.pdf" > pdfresults.md
+  508  mv pdfresults ~/Desktop/work
+  509  mv pdfresults ~/Desktop
+  510  locate "*.pdf"
+  511  locate "*.pdf" > pdfResults.md
+  512  mv pdfResults ~/Desktop
+  513  mv pdfResults.md ~/Desktop
+  514  ls
+  515  cd Desktop
+  516  ls
+  517  cat pdfResults.md
+  518  locate "*.pdf"
+  519  locate "*.pdf" > pdfresults.md
+  520  mv pdfresults.md ~/Desktop
+  521  cd ~/Desktop
+  522  ls
+  523  cat pdfresults.md
+  524  cd ..
+  525  ls -l
+  526  locate "*.pdf"
+  527  locate "*.pdf" > pdfresults.md
+  528  mv pdfresults.md ~/Desktop
+  529  ls
+  530  cd Desktop
+  531  ls
+  532  loacte "*.pdf"
+  533  locate "*.pdf"
+  534  locate "*.pdf" > pdfresults.md
+  535  mv pdfresults.md ~/Desktop
+  536  cd ~/Desktop
+  537  ls
+  538  cd ..
+  539  find ~/ ctime 0 -ls
+  540  find ~/ -type -newermt '2020-01-15'
+  541  find . -type f -newermt 2020-01-15 -ls
+  542  find ~/ "*.pdf"
+  543  locate "*.pdf"
+  544  locate "*.pdf" > pdfresults.md
+  545  mv pdfresults.md ~/Desktop
+  546  ls
+  547  cd ~/Desktop
+  548  ls
+  549  cd ..
+  550  file . -type -newermt 2020-01-15 -ls
+  551  find . -type f -newermt 2020-01-15
+  552  nano
+  553  nano my_bio.md
+  554  nano my_bio.md
+  555  clear
+  556  sudo apt install nano
+  557  locate my_bio.md
+  558  nano my_bio.md
+  559  locate my_bio.md
+  560  ls
+  561  nano my_bio.md
+  562  ls
+  563  mkdir my_files
+  564  mv my_bio.md /my_files
+  565  ls
+  566  mv my_bio.md ~/my_files
+  567  cd my_files
+  568  ls
+  569  mv my_bio.md ~/home
+  570  ls
+  571  cd ..
+  572  ls
+  573  nano my_bio.md
+  574  ls
+  575  mkdir my_files
+  576  ls
+  577  nano my_bio.md
+  578  ls
+  579  mkdir my_files
+  580  mv my_bio.md ~/my_files
+  581  cd ~/my_files
+  582  ls
+  583  locate "*.pdf"
+  584  locate "*.pdf" > pdfresults.md
+  585  mv pdfresults.md ~/Desktop
+  586  cd ~/Desktop
+  587  ls
+  588  find . -type f -newermt 2020-01-15
+  589  find ~ .pdf
+  590  find ~ *.pdf
+  591  find ~ ".pdf"
+  592  locate "*.pdf"
+  593  man find
+  594  find ~ *.pdf
+  595  find ~/ -name *.pdf
+  596  locate "*.pdf"
+  597  find ~/ -name .pdf
+  598  find ~/  *.pdf
+  599  find ~/ -name .pdf
+  600  find ~/ -name *.pdf
+  601  ls
+  602  pwd
+  603  find ~/ -name .pdf
+  604  find ~/ -name *.pdf
+  605  pwd
+  606  cd
+  607  pwd
+  608  cd ..
+  609  find ~/ -name *.pdf
+  610  cd ..
+  611  find ~/ -name *.pdf
+  612  locate "*.pdf"
+  613  cp locate "*.pdf > pdfresults
+  614  exit
+  615  locate "*.pdf" > pdfresults
+  616  ls
+  617  cat pdfresults
+  618  find ~/ -name *.pdf
+  619  pwd
+  620  find ./ *.pdf
+  621  cd Documents
+  622  cd ..
+  623  cd
+  624  cd ..
+  625  find . -type f newermt 2020-01-16
+  626  find . -type f -newermt 2020-01-16
+  627  find . -type f -newermt 2020-01-15
+  628  find ~/ -name *.pdf
+  629  find ~/ -name *.pdf > pdfresults
+  630  ls
+  631  cat pdfresults
+  632  cp pdfresults /Desktop
+  633  cp pdfresults ~/Desktop
+  634  cd Desktop
+  635  ls
+  636  cat pdfresults
+  637  cp pdfresults Documents
+  638  cd ..
+  639  cp Documents
+  640  cd Documents
+  641  ls
+  642  cp pdfresults ~/Documents
+  643  cp pdfresults > Documents
+  644  cd ..
+  645  cd Desktop
+  646  ls
+  647  cp pdfresults ~/Documents
+  648  cd ..
+  649  cd Documents
+  650  ls
+  651  cd -
+  652  cd ..
+  653  cd 
+  654  nano my_bio2.d
+  655  ls
+  656  cd ~/Desktop
+  657  mkdir Teffo
+  658  cd /Teffo
+  659  cd Teffo
+  660  cd 
+  661  find ~/ -name .pdf
+  662  find ~/ -name *.pdf
+  663  cd ~/Documents
+  664  find ~/ -name *.pdf
+  665  cd ..
+  666  cd ~/Downloads
+  667  find ~/ -name *.pdf
+  668  find ~/ -name *.pdf > pdfresults
+  669  cat pdfresults
+  670  find . -type f newermt 2020-01-15 -ls
+  671  find . -type f -newermt 2020-01-15 -ls
+  672  cd ~/Desktop
+  673  touch BeginnerLinux.txt
+  674  ls
+  675  sudo apt install python3.7
+  676  sudo apt install snapd
+  677  sudo add-apt-repository ppa:ubuntu-toolchain-r/ppa
+  678  sudo apt install python3.7
+  679  sudo apt install snapd
+  680  sudo apt install python3.7
+  681  cd ~/Desktop
+  682  cd Python=3.8.1
+  683  cd ~/Python=3.8.1
+  684  ls
+  685  cd ~/Python-3.8.1
+  686  cd Python-3.8.1
+  687  setup.py
+  688  run setup.py
+  689  python3 -V
+  690  python3
+  691  python3.8
+  692  python3.7
+  693  man | exit
+  694  man pipe
+  695  cat ~/ *.pdf
+  696  find . -type f -newermt 2020-01-15 -ls
+  697  sudo nano /etc/crontab
+  698  shutdown
+  699  shutdown now
+  700  date
+  701  day
+  702  ls -l
+  703  exit
+  704  cd test
+  705  exit
+  706  root -get
+  707  root
+  708  get
+  709  man get
+  710  man shutdown
+  711  reboot
+  712  sudo snap install notepad-plus-plus
+  713  restart
+  714  shutdown r
+  715  snap
+  716  sudo snap install notepad-plus-plus
+  717  snap help refresh
+  718  cd ~/Desktop
+  719  python/Hello.py
+  720  python3.7/Hello.py
+  721  python2/Hello.py
+  722  run python2 Hello.py
+  723  Hello.py
+  724  sudo apt install git
+  725  git clone https://github.com/JanTeffo442/Linux-Challenges.git
+  726  git Linux-Challenges
+  727  git --help
+  728  exit
+  729  cd ~/Desktop
+  730  touch git-basic-exercises
+  731  ls -a
+  732  git init
+  733  ls -a
+  734  git status
+  735  cd ~/Desktop
+  736  touch git-basic-exercises
+  737  rm git-basic-exercises
+  738  ls
+  739  mkdir git-basic-exercises
+  740  ls
+  741  cd ~/git-basic-exercises
+  742  cd git-basic-exercises
+  743  git init
+  744  ls -a
+  745  git status
+  746  touch README.md
+  747  ls -a
+  748  git status
+  749  git log
+  750  git add README.md
+  751  git status
+  752  git commit -m "initial commit"
+  753  git config --global user.email "jan.teffo@umuzi.org"
+  754  git config --global user.name "JanTeffo442"
+  755  git commit -m "initial commit
+  756  This is my first commit
+  757  exit
+  758  git status
+  759  git
+  760  git --version
+  761  exit
+  762  git status
+  763  exit
+  764  cd ~/Desktop
+  765  mkdir git-basic-exercises
+  766  ls
+  767  cd git-basic-exercises
+  768  ls -a
+  769  git init
+  770  ls -a
+  771  touch README.md
+  772  ls -a
+  773  git status
+  774  git log
+  775  git add
+  776  git add README.md
+  777  ls -a
+  778  git commit -m "initial commit"
+  779  git log
+  780  cd ..
+  781  rm git-basic-exercises
+  782  git log
+  783  cd ~/DataEngineering
+  784  cd DataEngineering
+  785  cd ~/DataEngineering
+  786  sudo snap install q
+  787  cd ~/Documents
+  788  mkdir git-basic-exercises
+  789  ls
+  790  cd ls -a
+  791  ls -a
+  792  cd git-basic-exercises
+  793  ls -a
+  794  git init
+  795  ls -a
+  796  git status
+  797  touch README.md
+  798  ls -a
+  799  git status
+  800  git log
+  801  git add README.md
+  802  git status
+  803  git commit -m "initial commit"
+  804  git log
+  805  q
+  806  nano README.md
+  807  y
+  808  cat README.md
+  809  git status
+  810  git commit -m "second commit"
+  811  mkdir git-basic-exercises
+  812  cd git-basic-exercises
+  813  ls -a
+  814  git init
+  815  ls -a
+  816  git status
+  817  touch README.md
+  818  ls -a
+  819  git status
+  820  git log
+  821  git add README.md
+  822  git status
+  823  git commit -m "initial commit"
+  824  git log
+  825  nano README.md
+  826  cat README.md
+  827  git stats
+  828  git status
+  829  git commit -m "second commit"
+  830  git add .
+  831  git status
+  832  git commit -m "second commit"
+  833  nano README.md
+  834  git add .
+  835  git status
+  836  cat README.md
+  837  git commit -m "third commit"
+  838  git log
+  839  q
+  840  git checkout bcb00665a3e311b3e48b46a3c883c28294fb9755
+  841  cat README
+  842  cat README.md
+  843  git checkout master
+  844  cat README.md
+  845  git branch
+  846  git branch milkshake-flavours
+  847  git branch
+  848  git checkout milkshake-flavours
+  849  git branch
+  850  nano milkshakes.md
+  851  git status
+  852  git add .
+  853  git status
+  854  git commit -m "added initial flavours"
+  855  git log
+  856  git checkout master
+  857  git branch
+  858  git log
+  859  git branch history
+  860  git log
+  861  history > history.txt
+  862  git add .
+  863  git status
+  864  git commit -m "added history"
+  865  git log
+  866  git checkout milkshake-flavours
+  867  git log
+  868  nano README.md
+  869  git add .
+  870  git commit -m "random readme changes"
+  871  git checkout history
+  872  cat README.md
+  873  rm README.md echo "booya" > README.md
+  874  git add .
+  875  git commit -m "rewrote readme"
+  876  git checkout master
+  877  ls
+  878  git log
+  879  git checkout milkshake-flavours
+  880  ls
+  881  git log
+  882  git checkout history
+  883  ls
+  884  git log
+  885  mkdir git-basic-exercises
+  886  cd git-basic-exercises
+  887  ls -a
+  888  git init
+  889  ls -a
+  890  git status
+  891  touch README.md
+  892  ls -a
+  893  git status
+  894  git log
+  895  git add .
+  896  git status
+  897  git rm --cached README.md
+  898  git status
+  899  git add .
+  900  git status
+  901  git commit -m "initial commit"
+  902  git log
+  903  q
+  904  nano README.md
+  905  cat README.md
+  906  git stats
+  907  git status
+  908  git add .
+  909  git commit -m "second commit"
+  910  nano README.md
+  911  cat README.md
+  912  git add .
+  913  git commit -m "third comit"
+  914  git log
+  915  q
+  916  git checkout e6ee87ad00d5d6aaaa216038a0986ae71164d3af
+  917  cat README.md
+  918  git checkout master
+  919  cat README.md
+  920  git branch
+  921  git branch milkshake-flavours
+  922  git branch
+  923  git checkout milkshake-flavours
+  924  nano milkshakes.md
+  925  git status
+  926  git add .
+  927  git status
+  928  git commit -m "added initial flavours"
+  929  git log
+  930  checkout master
+  931  git checkout master
+  932  git log
+  933  git branch history
+  934  git checkout history
+  935  git log
+  936  history > history.txt
+  937  ls
+  938  git add .
+  939  git commit -m "added history"
+  940  git log
+  941  git checkout milkshake-flavours
+  942  git log
+  943  nano README.md
+  944  git add .
+  945  git commit -m "random readme changes"
+  946  git checkout history
+  947  rm README.md
+  948  ls
+  949  echo "booya" > README.md
+  950  cat README.md
+  951  git add .
+  952  git commit -m "rewrote readme"
+  953  git checkout master
+  954  ls
+  955  git log
+  956  git checkout milkshake-flavours
+  957  git log
+  958  ls
+  959  cat README.md
+  960  git log
+  961  mkdir git-basic-exercises
+  962  cd git-basic-exercises
+  963  ls -a
+  964  git init
+  965  ls -a
+  966  git status
+  967  touch README.md
+  968  ls -a
+  969  git status
+  970  git log
+  971  git add README.md
+  972  git status
+  973  git rm --cached README.md
+  974  git status
+  975  git add README.md
+  976  git status
+  977  git commit -m "initial commit"
+  978  git log
+  979  q
+  980  nano README.md
+  981  cat README.md
+  982  git status
+  983  git add README.md
+  984  git commit -m "second commit"
+  985  nano README.md
+  986  git add README
+  987  git add README.md
+  988  cat README.md
+  989  git commit -m "third commit"
+  990  git log
+  991  q
+  992  git checkout c2be9c0d76b2c86c08019c3fd36c10122eaf2ba7
+  993  cat README.md
+  994  git checkout master
+  995  cat README.md
+  996  git branch
+  997  git branch milkshake-flavours
+  998  git branch
+  999  git checkout milkshake-flavours
+ 1000  nano milkshakes.md
+ 1001  git status
+ 1002  git add milkshakes.md
+ 1003  git commit -m "added initial flavours"
+ 1004  git log
+ 1005  git checkout master
+ 1006  git log
+ 1007  git branch history
+ 1008  git checkout history
+ 1009  git log
+ 1010  history > history.txt
+ 1011  ls
+ 1012  git add history.txt
+ 1013  git commit -m "added history"
+ 1014  git log
+ 1015  git checkout milkshake-flavours
+ 1016  git log
+ 1017  ls
+ 1018  nano README.md
+ 1019  git add README.md
+ 1020  cat README.md
+ 1021  git commit -m "random readme changes"
+ 1022  git checkout history
+ 1023  cat README.md
+ 1024  rm README.md
+ 1025  ls
+ 1026  echo "booya" > README.md
+ 1027  git add README.md
+ 1028  git commit -m "rewrote readme"
+ 1029  git checkout master
+ 1030  ls
+ 1031  git log
+ 1032  git checkout milkshake-flavours
+ 1033  ls
+ 1034  git log
+ 1035  git checkout history
+ 1036  ls
+ 1037  git log
+ 1038  mkdir git-basic-exercises
+ 1039  cd git-basic-exercises
+ 1040  ls -a
+ 1041  git init
+ 1042  ls -a
+ 1043  git status
+ 1044  touch README.md
+ 1045  ls -a
+ 1046  git status
+ 1047  git log
+ 1048  git add README.md
+ 1049  git status
+ 1050  git rm --cached README.md
+ 1051  git status
+ 1052  git add README.md
+ 1053  git status
+ 1054  git commit -m "initial commit"
+ 1055  git log
+ 1056  nano README.md
+ 1057  cat README.md
+ 1058  git status
+ 1059  git add README.md
+ 1060  git commit -m "second commit"
+ 1061  nano README.md
+ 1062  git add README.md
+ 1063  git commit -m "third commit"
+ 1064  git log
+ 1065  git checkout e3d9807ec3e0ff7315d34a884021bebfa23ca9b2
+ 1066  cat README.md
+ 1067  git checkout master
+ 1068  cat README.md
+ 1069  git branch
+ 1070  git branch milkshake-flavours
+ 1071  git branch
+ 1072  git checkout milkshake-flavours
+ 1073  nano milkshakes.md
+ 1074  git status
+ 1075  git add .
+ 1076  git commit -m "added initial flavours"
+ 1077  git log
+ 1078  git checkout master
+ 1079  git add .
+ 1080  git status
+ 1081  ls
+ 1082  cat README.md
+ 1083  git branch
+ 1084  git branch history
+ 1085  git checkout history
+ 1086  git log
+ 1087  history > history.txt
+ 1088  git add .
+ 1089  git commit -m "added history"
+ 1090  git log
+ 1091  git checkout milkshake-flavours
+ 1092  git add .
+ 1093  git log
+ 1094  nano README.md
+ 1095  git add .
+ 1096  git commit -m "random re4adme changes"
+ 1097  git checkout history
+ 1098  cat README.md
+ 1099  rm README.md
+ 1100  ls
+ 1101  echo "booya" > README.md
+ 1102  git add README.md
+ 1103  git commmit -m "rewrote readme"
+ 1104  git commit -m "rewrote readme"
+ 1105  git checkout master
+ 1106  ls
+ 1107  git log
+ 1108  git checkout milkshake-flavours
+ 1109  git add .
+ 1110  ls
+ 1111  git log
+ 1112  git checkout history
+ 1113  ls
+ 1114  git log
+ 1115  mkdir git-basic-exercises
+ 1116  cd git-basic-exercises
+ 1117  ls -a
+ 1118  git init
+ 1119  ls -a
+ 1120  git status
+ 1121  touch README.md
+ 1122  ls -a
+ 1123  git status
+ 1124  git log
+ 1125  git add README.md
+ 1126  git status
+ 1127  git rm --cached README.md
+ 1128  git status
+ 1129  git add README.md
+ 1130  git commit -m "initial commit"
+ 1131  git log
+ 1132  nano README.md
+ 1133  cat README.md
+ 1134  git status
+ 1135  git add README.md
+ 1136  git commit -m "second commit"
+ 1137  nano README.md
+ 1138  git add .
+ 1139  git commit -m "third commit"
+ 1140  git log
+ 1141  git checkout 154f6045bc9b7f1fa3fe234a0a2f122ebbfba08c
+ 1142  cat README.md
+ 1143  git checkout master
+ 1144  cat REAME.md
+ 1145  cat README.md
+ 1146  git branch
+ 1147  git branch milkshake-flavours
+ 1148  git branch
+ 1149  git checkout milkshake-flavours
+ 1150  nano milkshakes.md
+ 1151  git status
+ 1152  git add milkshakes.md
+ 1153  git commit -m "added initial flavours"
+ 1154  git log
+ 1155  git checkout master
+ 1156  ls
+ 1157  git log
+ 1158  git branch history
+ 1159  git checkout history
+ 1160  git log
+ 1161  history > history.txt
+ 1162  git add .
+ 1163  git commit -m "added history"
+ 1164  git log
+ 1165  git checkout milkshake-flavours
+ 1166  git log
+ 1167  nano README.md
+ 1168  cat README.md
+ 1169  git add .
+ 1170  git commit -m "random readme changes"
+ 1171  git checkout history
+ 1172  rm README.md
+ 1173  echo "booya" > README.md
+ 1174  git add .
+ 1175  git commit -m "rewrote readme"
+ 1176  git checkout master
+ 1177  ls
+ 1178  git log
+ 1179  git checkout milkshake-flavours
+ 1180  ls
+ 1181  git log
+ 1182  git checkout master
+ 1183  gr rm --cached README.md
+ 1184  git rm --cached README.md
+ 1185  cat README.md
+ 1186  ls
+ 1187  git log
+ 1188  ls
+ 1189  git add .
+ 1190  git log
+ 1191  git checkout milkshake-flavours
+ 1192  ls
+ 1193  git log
+ 1194  mkdir git-basic-exercises
+ 1195  cd git-basic-exercises
+ 1196  ls -a
+ 1197  git init
+ 1198  ls -a
+ 1199  git status
+ 1200  touch README.md
+ 1201  git status
+ 1202  ls -a
+ 1203  git log
+ 1204  git add README.md
+ 1205  git status
+ 1206  git rm --cached README.md
+ 1207  git status
+ 1208  git add README.md
+ 1209  git status
+ 1210  git commit -m "initial commit"
+ 1211  git log
+ 1212  nano README.md
+ 1213  cat README.md
+ 1214  git status
+ 1215  git add README.md
+ 1216  git commit -m "second commit"
+ 1217  nano README.md
+ 1218  git add README.md
+ 1219  git commit -m "third commit"
+ 1220  cat README.md
+ 1221  git log
+ 1222  git checkout d4c19e46aefdee418f7e9aa74fc706fbffdeefe7
+ 1223  cat README.md
+ 1224  git checkout master
+ 1225  cat README.md
+ 1226  git branch
+ 1227  git branch milkshake-flavours
+ 1228  git branch
+ 1229  git checkout milkshake-flavours
+ 1230  nano milkshakes.md
+ 1231  git add milkshakes.md
+ 1232  git commit -m "added initial flavours"
+ 1233  git log
+ 1234  git checkout master
+ 1235  git branch history
+ 1236  git checkout history
+ 1237  git log
+ 1238  history > history.txt
+ 1239  git add history.txt
+ 1240  git commit -m "added history"
+ 1241  git log
+ 1242  git checkout master
+ 1243  git checkout milkshake-flavours
+ 1244  git log
+ 1245  nano README.md
+ 1246  git add README.md
+ 1247  git commit -m "random readme changes"
+ 1248  git checkout history
+ 1249  cat README.md
+ 1250  git branch
+ 1251  rm README.md
+ 1252  echo "booya" > README.md
+ 1253  cat README.md
+ 1254  git add README.md
+ 1255  git commit -m "rewrote readme"
+ 1256  git checkout master
+ 1257  ls
+ 1258  git log
+ 1259  git checkout milkshake-flavours
+ 1260  ls
+ 1261  git log
+ 1262  git checkout history
+ 1263  ls
+ 1264  git log
+ 1265  git checkout master
+ 1266  git merge milkshake-flavours
+ 1267  git merge history
+ 1268  git checkout history
+ 1269  git add .
+ 1270  git merge history
+ 1271  git commit -m ""
+ 1272  git log
+ 1273  git merge history
+ 1274  git checkout history
+ 1275  git add README.md
+ 1276  git commit -m "rewrote readme"
+ 1277  git checkout history
+ 1278  git add .
+ 1279  git checkout master
+ 1280  git merge history
+ 1281  git checkout history
+ 1282  git log
+ 1283  git checkout milkshake-flavours
+ 1284  git log
+ 1285  mkdir git-basic-exercises
+ 1286  cd git-basic-exercises
+ 1287  ls -a
+ 1288  git init
+ 1289  git status
+ 1290  touch README.md
+ 1291  ls -a
+ 1292  git status
+ 1293  git log
+ 1294  git add README.md
+ 1295  git status
+ 1296  git rm --cached README.md
+ 1297  git status
+ 1298  git add README.md
+ 1299  git commit -m "initial commit"
+ 1300  git log
+ 1301  nano README.md
+ 1302  cat README.md
+ 1303  git status
+ 1304  git add README.md
+ 1305  git commit -m "second commit"
+ 1306  nano README.md
+ 1307  git add README.md
+ 1308  cat README.md
+ 1309  git commit -m "third commit"
+ 1310  git log
+ 1311  git checkout 6f2abbe9f81c489356c7c11454c8f879dd37a63f
+ 1312  git checkout master
+ 1313  cat README.md
+ 1314  git branch
+ 1315  git branch milkshake-flavours
+ 1316  git branch
+ 1317  git checkout milkshake-flavours
+ 1318  nano milkshakes.md
+ 1319  git status
+ 1320  git add milkshakes.md
+ 1321  git commit -m "added initial flavours"
+ 1322  git log
+ 1323  git checkout master
+ 1324  ls
+ 1325  cat README.md
+ 1326  git branch history
+ 1327  git checkout history
+ 1328  git log
+ 1329  history > history.txt
